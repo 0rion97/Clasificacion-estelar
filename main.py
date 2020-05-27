@@ -5,6 +5,8 @@ import numpy as np
 from picos import pico
 from clasificacion import Harvard
 
+# Autores: Fernando Santiago Rejón y Miguel Casero Buendía.
+
 
 if __name__ == "__main__":
 
