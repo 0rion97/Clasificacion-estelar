@@ -9,7 +9,7 @@ from clasificacion import Harvard
 if __name__ == "__main__":
 
     #Ruta del archivo
-    archivo = 'MILES_library_v9.1_FITS/s0010.fits'
+    archivo = 'MILES_library_v9.1_FITS/s0001.fits'
 
     # Obtenemos la longitud de onda y su respectiva luminosidad del archivo FITS
     wave, flux = lectorFits(archivo)
