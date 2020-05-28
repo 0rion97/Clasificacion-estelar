@@ -26,7 +26,7 @@ def linea(arrayMinimos,linea):
     Las lineas de absorcion implementadas son 'Balmer', 'FraunhoferK', 'FraunhoferH', 'GBand', 'ManganMn', 'Titanoxide' and 'FeI'
     """
     
-    precision = 2.6 # La librería tiene una precisión de 2.6 Anstroms
+    precision = 2.6 # La librería tiene una precisión de 2.6 Angstroms
 
     #Establecemos la longitud de onda de las diferentes líneas implementadas para búsqueda.
 
