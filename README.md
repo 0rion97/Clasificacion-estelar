@@ -33,6 +33,6 @@ Desde aquí el usuario tiene varias opciones:
 5. El programa clasificará la estrella según la clasificación Harvard en base a las líneas encontradas.
 
 
-# Autores: Fernando Santiago Rejón y Miguel Casero Buendía
+# Autores: Miguel Casero Buendía y Fernando Santiago Rejón
 
 
