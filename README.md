@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------
 
 Este programa está pensado para trabajar con la librería MILES v9.5, 
-cuyos ficheros .fits están descargados de
+cuyos ficheros .fits se pueden descargar en:
 http://research.iac.es/proyecto/miles/media/tarfiles/Stellar_Libraries/MILES_library_v9.1_FITS.tar.gz
 
 
